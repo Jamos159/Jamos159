@@ -1,5 +1,5 @@
 - 👋 Hello, I’m Jared Amos
-- 🎓 I am a computer engineering student, im interested in app development and website design and devlopment
+- 🎓 I am a computer engineering student, im interested in app development, website design and learning and getting more experience with coding and programming languages 
 - 🛠  I am currently expanding my knowledge of Python, Java  and SQL by learning intermediate and advanced techniques and practices 
 - 🌱 I am also learning C#, C, JavaScript, PHP, HTML5 and XML
 - 📫 You can contact me at my email amos0022@algonquinlive.com 
